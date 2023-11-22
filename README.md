@@ -1,6 +1,6 @@
 <h2 align="center">Hello there, I'm Dmitry - student of Polytech University and novice programmer</h2> </p>
 
-- 🌱 I’m currently learning **Java, Rust, C++ and basics of gamedev** </p>
+- 🌱 I’m currently learning **Java, Python, Go and DevOps basics** </p>
  
 - 🎯 My main target is to become a **gamedeveloper** </p>
 
